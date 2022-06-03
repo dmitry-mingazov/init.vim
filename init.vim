@@ -44,6 +44,10 @@ nnoremap <leader>q :quit<CR>
 nnoremap H gT
 nnoremap L gt
 
+" Open file under cursor in a new tab
+" (if present, at specified line number)
+nnoremap gf <C-W>gF
+
 " }}}
 
 " Plugins {{{
