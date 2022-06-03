@@ -71,6 +71,8 @@ let g:pear_tree_smart_openers = 1
 
 " air-line
 let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#formatter = 'unique_tail_improved'
 
 if !exists('g:airline_symbols')
     let g:airline_symbols = {}
