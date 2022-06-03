@@ -40,6 +40,10 @@ nnoremap <leader>sv :source $MYVIMRC<CR>
 nnoremap <leader>w :write<CR>
 nnoremap <leader>q :quit<CR>
 
+" move between tabs 
+nnoremap H gT
+nnoremap L gt
+
 " }}}
 
 " Plugins {{{
