@@ -38,6 +38,7 @@ nnoremap <leader>sv :source $MYVIMRC<CR>
 
 " Custom mappings {{{
 nnoremap <leader>w :write<CR>
+nnoremap <leader>q :quit<CR>
 
 " }}}
 
