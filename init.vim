@@ -59,6 +59,8 @@ Plug 'https://github.com/neoclide/coc.nvim', {'branch': 'release'} " Auto Comple
 Plug 'https://github.com/tpope/vim-commentary' " To comment run gcc
 Plug 'https://github.com/junegunn/fzf.vim' " File fuzzy search
 Plug 'https://github.com/tmsvg/pear-tree' " Automatically pairs brackets, quotes etc.
+Plug 'https://github.com/airblade/vim-gitgutter'
+Plug 'https://github.com/jreybert/vimagit'
 
 call plug#end()
 " }}}
