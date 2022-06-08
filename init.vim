@@ -18,6 +18,8 @@ set updatetime=300
 set nobackup
 set nowritebackup
 
+set splitright
+set splitbelow
 " unnecessary because nvim is alway nocompatible
 "set nocompatible
 
