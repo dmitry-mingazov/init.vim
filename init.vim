@@ -104,6 +104,8 @@ endif
 
 noremap <leader>fe :NERDTreeToggle<CR>
 
+noremap <leader>git :Magit<CR>
+
 " }}}
 
 colorscheme jellybeans
