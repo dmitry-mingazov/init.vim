@@ -55,6 +55,9 @@ nnoremap <C-K> <C-W><C-K>
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-H> <C-W><C-H>
 
+" use <esc> to cancel search highlighting
+nnoremap <silent> <ESC> :nohlsearch<CR>
+
 " Open file under cursor in a new tab
 " (if present, at specified line number)
 nnoremap gf <C-W>gF
